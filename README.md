@@ -1,5 +1,9 @@
 # BugHunter Bot Labs 🤖💻
 
+<p align="center">
+  <img src='./General.jpeg'>
+</p>
+
 Welcome to BugHunterbot Labs, the ultimate playground for cutting-edge bot development! 🚀 Brace yourselves for a captivating journey through the realms of automation, intelligence, and coding wizardry. 🧙‍♂️
 
 At BugHunterbot Labs, we fearlessly embrace the challenge of hunting down those pesky bugs 🐞 and crafting ingenious bots that streamline processes, unleash productivity, and bring a touch of magic to the digital world. Our team of bot whisperers 💬 is constantly pushing the boundaries of what's possible, conjuring up innovative solutions that will leave you spellbound. 🪄
